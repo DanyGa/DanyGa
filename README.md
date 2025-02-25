@@ -46,19 +46,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanyGa&langs_count=8&layout=compact&theme=radical&card_width=400)  
 
----
-
-## 🔗 Follow Me 
-
-<p align="left">
-  
-  <a href="https://x.com/degm02" target="_blank">
-    <img width="40" height="40" src="https://img.icons8.com/ios-glyphs/30/twitterx--v1.png" alt="twitterx--v1"/>
-  </a>
-  <a href="https://www.instagram.com/Degm.02/#" target="_blank">
-    <img width="40" height="40" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>
-  </a>
-</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3f0bf589-c4a2-430c-a391-ba9714aca8cd" width="400" />
